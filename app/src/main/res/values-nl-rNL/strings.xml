@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Graffitti</string>
+    <string name="music_graffitti_map">Muziek Graffitti Map</string>
+    <string name="Explanationt_text">Laat geografisch je muziek achter met een bericht</string>
+    <string name="add_music_button">Muziek marker toevoegen</string>
+    <string name="submit_marker_button">Verzend te Marker</string>
+    <string name="see_the_marker_map_Button">Naar Marker Map</string>
+    <string name="add_music_to_map_TextView">Laat muziek achter op de Map</string>
+    <string name="add_music_marker_Button">Voeg marker toe aan de map</string>
+    <string name="add_marker_settings">Muziek marker toevoegen</string>
+    <string name="settings_menu">Instellingen</string>
+    <string name="dbnode_markers">Marker</string>
+    <string name="title_activity_music_graffitti_maps">Music Graffitti</string>
+    <string name="map">Map</string>
+    <string name="title">Titel</string>
+    <string name="message">Bericht</string>
+</resources>

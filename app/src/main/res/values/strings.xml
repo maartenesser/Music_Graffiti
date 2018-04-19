@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_graffitti_map">Music Graffitti Map</string>
+    <string name="Explanationt_text">Geographically drop your music with a message.</string>
+    <string name="add_music_button">Add Music Marker </string>
+    <string name="submit_marker_button">submit marker</string>
+    <string name="see_the_marker_map_Button">See Marker map</string>
+    <string name="add_music_to_map_TextView">Add music to map</string>
+    <string name="add_music_marker_Button">add music marker to map</string>
+    <string name="add_marker_settings">Add music marker</string>
+    <string name="settings_menu">Settings</string>
+    <string name="dbnode_markers">markers</string>
+    <string name="title_activity_music_graffitti_maps">Music Graffitti</string>
+    <string name="map">Map</string>
+    <string name="app_name">Music Graffitti</string>
+    <string name="title">Message</string>
+    <string name="message">Music Link</string>
+</resources>

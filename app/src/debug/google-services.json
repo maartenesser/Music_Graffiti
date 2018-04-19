@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734198127771",
+    "firebase_url": "https://musicgrafitti.firebaseio.com",
+    "project_id": "musicgrafitti",
+    "storage_bucket": "musicgrafitti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734198127771:android:7ac50cca39112054",
+        "android_client_info": {
+          "package_name": "com.example.maartenesser.musicgraffitti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734198127771-9t9b3f9v7e87dihkij2bh3g6r4pkht3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maartenesser.musicgraffitti",
+            "certificate_hash": "22990e42b55f51261f678ffa528bcc818c8e6781"
+          }
+        },
+        {
+          "client_id": "734198127771-ihr8otbk39bvvsocj8d4umepmkt7rgd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYhi-7B_-TzcrvEaisYU3sg0SJwnvfR1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734198127771-ihr8otbk39bvvsocj8d4umepmkt7rgd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
